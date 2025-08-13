@@ -1,5 +1,7 @@
 # Challenge_2_Alura_Store
-Se realiza el analisis  de las ventas de 4 tiendas  con el objetivo de determinar su rentabilidad y  recomendar la   posible venta de la tienda menos productiva
+Se realiza el analisis  de las ventas de 4 tiendas  con el objetivo de determinar su rentabilidad y  recomendar la   posible venta de la tienda menos productiva.
+
+
 ##Requerimiento de instalacion y ejecucion
 * Python
 * import pandas as pd
